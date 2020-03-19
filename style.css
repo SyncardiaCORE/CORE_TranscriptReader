@@ -1,6 +1,6 @@
 html{
 	background-color:#000;
-	color:white;
+	color:#FFF;
 }
 
 nav{
@@ -32,4 +32,11 @@ main p{
 
 main p:hover{
 	background-color:#333;
+}
+
+div.lineNumber{
+	display:inline;
+	margin-right: 10px;
+	text-align: right;
+	color: #777;
 }

@@ -32,7 +32,7 @@ function updateList(){
 		var newVal = textArray[i];
 		if(searchContent == "" || newVal.toLowerCase().includes(searchContent)){
 			var newElement = document.createElement("P");
-			newElement.innerHTML = textArray[i].replace(/</g, "&lt;").replace(/>/g, "&gt;");
+			newElement.innerHTML = "<div class = 'lineNumber'>" + i.toString().padStart(3, "0") + "</div>" + textArray[i].replace(/</g, "&lt;").replace(/>/g, "&gt;");
 			fileContentDiv.appendChild(newElement);
 			newElement.scrollTop -= 50;
 			newElement.onclick = function(){
