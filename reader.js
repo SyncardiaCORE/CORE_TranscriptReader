@@ -50,9 +50,7 @@ function updateList(){
 		var newVal = textArray[i];
 		if(searchContent == "" || newVal.toLowerCase().includes(searchContent)){
 			var newElement = document.createElement("P");
-			if(textArray[i].length > 1){
-				newElement.innerHTML = syntaxHighlight(textArray[i]) + ";";
-			}
+			newElement.innerHTML = syntaxHighlight(textArray[i]);
 			newElement.setAttribute("lineNumber", i.toString().padStart(3, "0"));
 			fileContentDiv.appendChild(newElement);
 			newElement.scrollTop -= 50;
