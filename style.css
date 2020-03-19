@@ -1,0 +1,35 @@
+html{
+	background-color:#000;
+	color:white;
+}
+
+nav{
+	position:fixed;
+	top:0;
+	height:3em;
+	background-color:#222;
+	width:80%;
+	border-bottom:1px solid #555;
+	vertical-align:center;
+}
+
+body{
+	margin-left:10%;
+	margin-right:10%;
+	background-color:#111;
+}
+
+main{
+	margin-top:3em;
+}
+
+main p{
+	margin-top:0;
+	margin-bottom:0;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+main p:hover{
+	background-color:#333;
+}
