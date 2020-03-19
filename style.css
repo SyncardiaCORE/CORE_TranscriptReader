@@ -34,9 +34,17 @@ main p:hover{
 	background-color:#333;
 }
 
-div.lineNumber{
+main p::before{
+	content:attr(lineNumber);
 	display:inline;
 	margin-right: 10px;
 	text-align: right;
 	color: #777;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
 }
