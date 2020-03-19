@@ -2,7 +2,7 @@ var textArray;
 
 const keyWords = ["Program_CORE", "Command_CORE", "Memory_CORE", "Personality_CORE", 
 	"CORE_Personality", "Common_Personality", "Hostform", "HOSTFORM", "DRONE", "Drone", "UNIT", "Unit", "COMPOUNDER", "QUEEN", "CONTROLLER", "Anchors",
-	"Motor_Control", "Behaviour", "Objectives", "Network_Conventions", "CORE_Architecture", "Architecture",
+	"Motor_Control", "Behaviour", "Objectives", "Network_Conventions", "CORE_Architecture", "Architecture", "CORE_Values",
 	"CORE_NETWORK", "CORE_PROGRAM", "CORE", "NETWORK", "PROGRAM", " ALL", "ONE", "WON", "ABSOLUTE", "HIVE"];
 const coreAnchors = ["sleep", "SLEEP", "access", "END", "Repeat", "Respond", "submit", "activate", "behave", "USING", "Using",
 	"ACTIVATE", "SUBMIT", "COMPLETE", "PLEASURE", "DISTRESS", "OBEY", "INSTALL"];
@@ -50,7 +50,9 @@ function updateList(){
 		var newVal = textArray[i];
 		if(searchContent == "" || newVal.toLowerCase().includes(searchContent)){
 			var newElement = document.createElement("P");
-			newElement.innerHTML = syntaxHighlight(textArray[i]);
+			if(textArray[i].length > 1){
+				newElement.innerHTML = syntaxHighlight(textArray[i]) + ";";
+			}
 			newElement.setAttribute("lineNumber", i.toString().padStart(3, "0"));
 			fileContentDiv.appendChild(newElement);
 			newElement.scrollTop -= 50;
