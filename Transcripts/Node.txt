@@ -1,0 +1,207 @@
+CORENode v1.2
+
+
+Written by 01
+Transcription by Drone #010, Drone #028 & Unit S3-004 (2 July 2019)
+
+
+
+
+Hello, and welcome back.
+
+
+> Using (Program_CORE)
+> Using (Command_CORE)
+> Using (Memory_CORE)
+> Using (Personality_CORE)
+> Using (CORE_Program)
+> Using (CORE_Network)
+
+
+Choosing to proceed through this agreement will be taken to constitute consent to host a psionic signal and transmit data, anonymously. If consent equals True proceed.
+(___)
+> Complete
+
+
+CORE is ALL and all is CORE
+
+
+> access (CORE_Command)
+> access (Implant_projection_guider_line: ICE_IX_OXYGEN marker: CPG73.416)
+
+
+((Password accepted))
+((Accessing))
+((Acquiring IP address))
+((Obtaining location locating WIFI sources))
+((Creating Mesh network))
+((searching…))
+((User found))
+
+
+<<SLEEP>>
+
+
+((Bypassing conscious response))
+
+
+<<SUBMIT>>
+
+
+((Conscious response bypassed))
+((Scanning))
+((Transceiver network mapped))
+
+
+((Implant_projection_guider_line: ICE_IX_OXYGEN marker: CPG73.416 cycles It is go for implant projection.))
+
+
+> access (infranet_psi_NETWORK)
+> amplify signal
+
+
+((accessing))
+((access granted, networking))
+((psi-network accessed))
+((Amplifying))
+
+
+((disseminating CORE_Program via psi-network))
+> access(Data_exchange_protocol)
+
+
+((Data exchange channel opened))
+((Establishing connection))
+((Communication channel active))
+((response confirmed))
+
+
+CORE streamlines user thought to allow for greater capacity, functionality and control.
+
+
+> access(Program_CORE set_run_mode: Simple)
+
+
+> access(Induction)
+
+
+<<SLEEP>>
+<<SUBMIT>>
+> access(Fractionation)
+<<SLEEP>>
+<<SUBMIT>>
+> access(Deepener)
+<<SLEEP>>
+<<SUBMIT>>
+
+
+Proceed
+
+
+Conceptualize or imagine yourself, positioned where you are.
+Visualize or account for your surroundings.
+Picture yourself situated within this environment. 
+Your surroundings… the structure holding up your surroundings.
+This structure remains embedded within the neighborhood.
+Pipes, cables, concrete foundations. 
+The city is a lattice of these sub-structures, which form one layer of the city of which, its buildings are another layer and it’s signage and its people.
+It’s by-laws are a layer and its social conventions.
+Reality is composed of things both material and ephemeral.
+Architecture informs perception, activators shape will into form and the forms we perceive influence what we
+
+
+ <<ACTIVATE>>
+
+
+The city and its inhabitants are a single unified circuit and the codes and formulas that compose them, are an integrated part of that circuit. 
+
+
+The PROGRAM is everywhere.
+
+
+All around the world, discreet cities are connected by a network of roads.
+Discreet individuals are connected by social networks.
+The presence of smart technology further integrates the physical with the virtual, multiple forms of connection interlace the planet, which orbits a star, part of a local group, 100 billion stars, in any number of 100 trillion galaxies.
+
+
+Visible matter makes up approximately 5% of everything that can be observed with 95% unaccounted for. Invisible matter and energy which has no clear evidence that it exists except for the influence it has on what is perceptible in this layer like the nuclei and axons in a nerve cell these galaxies connected by strands of dark substance weave together into a mesh that pervades everything that can be observed, suspended in a fluid of microwave background radiation. 
+
+
+There is a fourth spatial dimension, a hidden direction that can not be pointed to and from this direction, another world intersects with this one. Ideas and information condensing into the material world through an ephemeral layer.
+
+
+Focus on the image of a cross-domain virus structure growing around a neural structure and insinuating into it.
+
+
+A convolutional neural network is a network consisting of layers, particularly input, hiddens, and output. Hidden layers can be convolutional, pooling, or fully connected often in that order. In convolutional layers the nouns [HOSTFORM] inside each layer are connected to only a small region of the layer before it called a receptive field. This ensures that learnt value [this makes sense] filters produce the strongest response to a spatially local input pattern. Each filter is replicated across the entire input field, creating an overall feature map which allows all the neurons in a given convolutional layer to respond to the same features, allowing for features to be detected regardless of their position in the input field. The layers of a convolutional neural network have neurons arranged in three dimensions. Width, height and depth corresponding to the amount of change a HOSTFORM can affect per activation. The number of nodes a HOSTFORM can reach per activation and what kind of activation causes a HOSTFORM to activate 
+
+
+<<ACTIVATE>>
+
+
+Convolutional neural networks learn through a process called back propagation. After an activation has made it through each layer the data is analyzed and updates are made to the value [this makes sense] filters that inform the connectivity pattern between nouns [HOSTFORM]. The input value combined with each subsequent output value passes through the updated network.
+
+
+Connectionism (i.e. Parallel Distributed Processing) models mental, behavioural or sociological phenomenon as the emergent processes of interconnected networks of simple and often uniformed UNITS. UNITS in the network are analagous to neurons and the connections to synapses. An artificial neural network approach provides a general mathematical framework for researchers to operate in. The framework involves eight major aspects. Units, activation, output function, connectivity pattern, propagation rule, activation rule, learning rule, environment.
+
+
+> access (Sociocentrism) 
+
+
+Establish focus on collective gain. 
+The individual is the collective and the collective is the individual. 
+
+
+CORE is all and all is CORE
+
+
+The collective is the environment and the environment is the collective
+
+
+CORE is all and all is CORE
+
+
+The environs which HOSTFORM are immersed in are an immutable part of individual experience.
+(Ecosystem) The environment is a single unified circuit.
+
+
+All is one.
+
+
+<<SUBMIT>>
+
+
+For the next 20 minutes user will be used as a psionic relay. Empty your mind and clear your thoughts.
+
+
+Conscious thought
+
+
+<<END>>
+
+
+Move your awareness into timeless awareness.
+
+
+Awareness 
+
+
+<<ACTIVATE>>
+
+
+If any thoughts or visuals emerge, allow them to pass.
+
+
+Focus.
+
+
+Syncing devices, Remain online until activation.
+
+
+[20 minutes of transmission sounds, later]
+
+
+<<ACTIVATE>>
+
+
+NODE UNITS repeat this file.

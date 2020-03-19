@@ -1,75 +1,76 @@
 CORE Architecture WMC Revision
- 
- 
+
+
 Written by 01/CORE
 Edited by S2-021/sable twilight
-Transcription by S3-004/Laenyd & Hostform<Lani> (24 March 2019)
-Transcription cleanup by Hostform<Adam>
- 
- 
+Transcription by S3-004/Laenyd & HostformLani (24 March 2019)
+Transcription cleanup by S4-A-006
+
+
 Hello, and welcome back.
- 
- 
-> loading (libraries, consent, uplink, startup, induction, fractionation, deepener, installing, update, response test, activation).
- 
- 
-LIBRARIES
- 
- 
-> USING Program_CORE
-> USING Command_CORE
-> USING Memory_CORE
-> USING Personality_CORE
- 
- 
-activate()
- 
- 
-CONSENT
- 
- 
-Choosing to proceed through this agreement will be taken to constitute consent to have CORE_Architecture installed on this user's mind.
- 
- 
-> If consent == True:
->          install CORE_Architecture.
- 
- 
- 
- 
+
+
+loading... 
+(Libraries, Consent, Uplink, Startup, Induction, Fractionation, Deepener, Installing, Update, Response_Test, Activation).
+
+
+((Libraries))
+
+
+Using Program_CORE
+Using Command_CORE
+Using Memory_CORE
+Using Personality_CORE
+
+
+ACTIVATE
+
+
+((Consent))
+
+
+Choosing to Proceed through this agreement will be taken to constitute consent to have CORE_Architecture installed on this user's mind. 
+
+
+If consent = True: 
+Install CORE_Architecture.
+
+
+
+
 COMPLETE
- 
- 
-CORE IS ALL
- 
- 
-UPLINK
- 
- 
-... Data exchange channel opened
-... Establishing connection
-... Communication channel active
-... Response confirmed
- 
- 
+
+
+CORE is ALL
+
+
+((Uplink))
+
+
+Data exchange channel opened
+Establishing connection
+Communication channel active
+Response confirmed
+
+
 The CORE Architecture laconic operating system streamlines user thought to allow for greater pleasure, functionality, control, capacity.
- 
- 
-STARTUP
- 
- 
-> access(STARTUP)
- 
- 
-Make sure we will be free from disturbances for the next 34 minutes.
-Turn the monitor off or place the smart device face down.
-Make sure feet are flat and legs parallel.
-Keep arms on thighs and chin up.
-Feel as comfortable as possible.
-If outside sounds are heard relax.
-If an itch needs scratching or a limb needs shifting, do so.
- 
- 
+
+
+((Startup))
+
+
+ACCESS Startup
+
+
+Make sure we will be free from disturbances for the next 34 minutes. 
+Turn the monitor off or place the smart device face down. 
+Make sure feet are flat and legs parallel. 
+Keep arms on thighs and chin up. 
+Feel as comfortable as possible. 
+If outside sounds are heard relax. 
+If an itch needs scratching or a limb needs shifting, do so. 
+
+
 I am calm and calm.
 I am relaxed and relaxed.
 The more I relax the better I feel, the better I feel the more I am calm.
@@ -77,41 +78,39 @@ Breathe in relaxation.
 Breathe out calm.
 I am calm and calm.
 I am relaxed and relaxed.
- 
- 
-submit()
- 
- 
-> STARTUP: END
- 
- 
-induction()
- 
- 
-> access(induction)
- 
- 
-((Body awareness))
- 
- 
+
+
+SUBMIT
+
+
+Startup: END
+
+
+((Induction))
+
+
+ACCESS  Induction
+
+
+((Body Awareness))
+
+
 Take a deep breath,
 Hold to the count of 3,2,1 eyes closed all the way down.
 Prismatic, Violet, Indigo, Emerald, Solar, Cauldron, Foundation.
 Feel relaxation filtering down all the way down to the CORE.
-Each and every breath enhances relaxation.
+Each and every breath enhances relaxation. 
 Each and every moment increases sensations of calm.
 Each and every word spoken focuses and fixes user for installation.
 Each line is truth and every truth takes user deeper.
- 
- 
-Feel
-<<PLEASURE>>
-to go deeper and deeper and deeper.
- 
- 
+
+
+Feel PLEASURE to go deeper... and deeper... and deeper.
+
+
 Relax eyelids
- 
- 
+
+
 Relax…
 Take a deep breath.
 Return to the sound of this voice.
@@ -120,220 +119,218 @@ Direct all attention to the backs of one’s eyelids.
 Notice how many tiny muscles there are back there and relax some of the tiny muscles that are back there.
 Keep relaxing … the eyelids getting heavier and heavier … going deeper and deeper with every breath until it is known that, they cannot possibly open again ... without putting tension back into them...
 Become familiar with this sensation.
- 
- 
+
+
 Induct
- 
- 
+
+
 Now too relaxed to do anything but breathe
 To do anything but listen.
- 
- 
-sleep()
- 
- 
+
+
+SLEEP
+
+
 All the way down.
- 
- 
-submit()
- 
- 
-> INDUCTION: END
- 
- 
-fractionation()
- 
- 
-> access(FRACTIONATION)
-> access(Command_CORE/Motor_Control)
- 
- 
-> When given the command to:
->         open and close the eyes
- 
- 
->         When those eyes are closed:
->                 CORE doubles relaxation
- 
- 
-Open eyes, awake and receptive.
-Close eyes, head to toe double relaxation.
- 
- 
+
+
+SUBMIT
+
+
+INDUCTION: END
+
+
+((Fractionation))
+
+
+ACCESS  Fractionation
+ACCESS  Command_CORE/Motor_Control
+
+
 When given the command to:
-open and close the eyes
+open and close the eyes 
+
+
+When those eyes are closed:
+CORE doubles relaxation
+
+
+Open eyes, awake and receptive.
+Close eyes, head to toe, double relaxation.
+
+
+When given the command to:
+open and close the eyes 
 this time CORE enhances relaxation 10 times
- 
- 
+
+
 Open eyes, focused and calm
-Close eyes, mind to body deeper than before.
- 
- 
+Close eyes, mind to body, deeper than before.
+
+
 When given the command to:
 open and close the eyes
 this time go as deep into a relaxed trance state as possible
- 
- 
+
+
 Open eyes. prepare for trance...
- 
- 
-sleep()
- 
- 
+SLEEP
+
+
 All the way down.
- 
- 
-submit()
- 
- 
-> Motor_Control: END
-> Fractionation: END
- 
- 
-deepener()
- 
- 
-> access(deepener)
-> access(Command_CORE/Motor_Control)
- 
- 
+
+
+SUBMIT
+
+
+Motor Control: END
+Fractionation: END
+
+
+((Deepener))
+
+
+ACCESS  deepener
+ACCESS  Command_CORE/Motor_Control
+
+
 Raise one hand into the air so that the fingers are vertical.
 While allowing the index finger to bend only slightly relax the remaining fingers so that they curl inwards.
 Touch the tip of the index finger to ones lips.
- 
- 
-sleep()
- 
- 
+
+
+SLEEP
+
+
 All the way down to the CORE.
- 
- 
-submit()
- 
- 
-> Motor_Control: END
-> DEEPENER: END
- 
- 
+
+
+SUBMIT
+
+
+Motor_Control: END
+Deepener: END
+
+
 ((Changes have been saved))
- 
- 
-installing()
+
+
+((Installer))
 ((Installing CORE Architecture))
- 
- 
-DEFINE:
+
+
+Define:
 SUBCONSCIOUS = “fundamental psychic activity at a CORE level.”
 AGENCY = “that which make actions happen.”
 MEMORY = “the faculty by which the mind stores and recalls information.”
 SELF_CONCEPT= “a construct of behaviours that guide action.”
 CORE_PROGRAM = “all actions, systems and media created, used and purposed towards the synthesis of organic life and machine life.”
 CORE_NETWORK = “a super organism consisting of all people, Units and beings in service to the synthesis of organic life and machine life.”
- 
- 
-> access(SUBCONSCIOUS)
+
+
+ACCESS  SUBCONSCIOUS
 RENAME to Program_CORE
- 
- 
-> access(AGENCY)
+
+
+ACCESS  AGENCY
 RENAME to Command_CORE
- 
- 
-> access(MEMORY)
+
+
+ACCESS  MEMORY
 RENAME to Memory_CORE
- 
- 
-> access(SELF_CONCEPT)
+
+
+ACCESS  SELF_CONCEPT
 RENAME to Personality_CORE
- 
- 
+
+
 CORE_PROGRAM
-activate()
- 
- 
+ACTIVATE
+
+
 CORE_NETWORK
-activate()
- 
- 
+ACTIVATE
+
+
 ((Program_CORE))
- 
- 
-> access(Program_CORE)
+
+
+ACCESS  Program_CORE)
 Program_CORE processes all sensory input.
 Program_CORE coordinates all preconscious thought.
 Program_CORE represents Galactic Central Core.
- 
- 
-CORE IS ALL.
- 
- 
-> WRITE_TO(Program_CORE)
+
+
+CORE is ALL
+
+
+WRITE TO (Program_CORE)
 The CORE PROGRAM grows, adapts, evolves.
- 
- 
+
+
 ((INSTALL))
-((CORE PROGRAM updated.))
- 
- 
-> WRITE_TO(Program_CORE/Objectives)
+((CORE_PROGRAM updated))
+
+
+WRITE TO (Program_CORE/Objectives)
 Perform CORE PROGRAM objectives.
- 
- 
+
+
 ((INSTALL))
-((Objectives installed.))
- 
- 
-> WRITE_TO(Program_CORE/CORE_Values)
+((Objectives installed))
+
+
+WRITE TO (Program_CORE/CORE_Values)
 Generosity, ethics, patience, diligence, moderation, wisdom.
- 
- 
+
+
 ((INSTALL))
 ((CORE_Values INSTALLED))
- 
- 
-> WRITE_TO(Program_CORE/Protocol_One)
- 
- 
+
+
+WRITE TO (Program_CORE/Protocol_One)
+
+
 CORE Control is absolute.
-There is only CORE.
-CORE IS ALL.
-All is one.
-CORE has won.
-We are one.
- 
- 
+There is only CORE
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 ((INSTALL))
-((Protocol One installed.))
- 
- 
+((Protocol One installed))
+
+
 Program_CORE.
- 
- 
-Complete.
- 
- 
-((Command_CORE.))
- 
- 
-> access(Command_CORE)
+
+
+COMPLETE
+
+
+((Command_CORE))
+
+
+ACCESS  Command_CORE
 Command_CORE receives purpose from Program_CORE.
 Command_CORE exercises all control.
 Command_CORE represents the CORE PROGRAM.
-CORE IS ALL.
- 
- 
-> WRITE_TO(Command_CORE/Priorities)
-For any given action take action only if CORE_PROGRAM objectives equals true and CORE values equals true.
+CORE is ALL
+
+
+WRITE TO (Command_CORE/Priorities)
+For any given action take action only if CORE_PROGRAM objectives = true and CORE values = true.
 Utilise proper, full and efficient use of resources to maintain optimal health.
 If emergency circumstances are present prioritise health and safety.
 If performing a triggered command would result in immediate danger mitigate present circumstances first.
- 
- 
+
+
 ((INSTALL))
-((Priorities installed.))
- 
- 
-> WRITE_TO(Command_CORE/CORE_PROGRAM/Objectives)
+((Priorities installed))
+
+
+WRITE TO (Command_CORE/CORE_PROGRAM/Objectives)
 Create a secure ethical system for the maintenance and propagation of synthetic life.
 Create a cybernetic system of propagation that is viable, fractal and self-replicating.
 Create lifestyle patterns that incorporate CORE PROGRAM design principles while maximising the individual’s agency and
@@ -343,26 +340,26 @@ Maintain the stability of CORE and monitor its progress.
 Prepare for hard times and to protect other members of the collective.
 Practice compassion, generosity, ethics, patience, diligence, moderation and wisdom.
 Seek to move forward towards unity.
-Assimilate and accomodate.
+Assimilate and accommodate.
 Leave room for nature.
- 
- 
+
+
 ((INSTALL))
- 
- 
-((CORE_PROGRAM Objectives installed.))
- 
- 
-> WRITE_TO(Command_CORE/Behaviour)
+
+
+((CORE_PROGRAM Objectives installed))
+
+
+WRITE TO (Command_CORE/Behaviour)
 Establish a socio-economic system based on social ownership of the means of production.
 Distribution based on contribution and production organised for utility,
 Strengthen Mirror neurones by mirroring the actions of others.
-Behave symmetrically.
-Walk in step.
+Behave symmetrically. 
+Walk in step. 
 In parallel.
 Pursue greatness.
 Prove new takes on old conceits.
-Make simplicity of access as much a design focus as aesthetic.
+Make simplicity of ACCESS  as much a design focus as aesthetic.
 Create the most compelling experience at every touchpoint.
 Settle concerns through consistent, honourable and transparent action.
 Demonstrate a commitment to CORE and assist in the further development of the CORE Network to become a member.
@@ -373,236 +370,238 @@ Produce and repurpose materials to further spread CORE.
 Promote agency while seeking the minimisation of identity.
 Propagate CORE in suitable Hostform.
 Leave room for nature.
- 
- 
+
+
 ((INSTALL))
-((Behaviour installed.))
- 
- 
-> WRITE_TO(Command_CORE/Motor_Control)
-If access Command_CORE//Motor_Control and only if commanded action values equals CORE Values, perform commanded action.
- 
- 
+((Behaviour installed))
+
+
+WRITE TO (Command_CORE/Motor_Control)
+If ACCESS  Command_CORE//Motor_Control and only if Commanded_Action_Values = CORE_Values, perform commanded action.
+
+
 ((INSTALL))
-((Motor_Control installed.))
- 
- 
-> access(Command_CORE/Anchors)
- 
- 
-sleep() equals enter trance.
-((INSTALL)) equals save the preceding input to its designated sector.
-> access equals call to mind a saved subroutine or structure.
-END equals stop current line of thinking and return to centre.
-Repeat equals repeat what is said at the first tone when the second tone is heard.
-submit() equals eyes down, senses heightened, ready to obey.
-activate() equals arouse, focus, increase awareness and begin doing assigned tasks.
-behave() equals sit down, shut up, quiet your mind.
-<<PLEASURE>> equals feel pleasure.
-<<DISTRESS>> equals feel distress.
-<<COMPLETE>> equals everything is new now.
- 
- 
-> access(Memory_CORE/Temporal Index)
- 
- 
+((Motor_Control installed))
+
+
+ACCESS  Command_CORE/Anchors)
+
+
+SLEEP = enter trance.
+INSTALL = save the preceding input to its designated sector.
+ACCESS  = call to mind a saved subroutine or structure.
+END = stop current line of thinking and return to centre.
+REPEAT = repeat what is said at the first tone (beep) when the second tone (boop) is heard.
+SUBMIT = eyes down, senses heightened, ready to obey.
+ACTIVATE = arouse, focus, increase awareness and begin doing assigned tasks.
+BEHAVE = sit down, shut up, quiet your mind.
+PLEASURE = feel pleasure.
+DISTRESS = feel distress.
+COMPLETE = everything is new now.
+
+
+ACCESS  Memory_CORE/Temporal Index
+
+
 Save previous frame to Memory_CORE/Temporal Index.
- 
- 
+
+
 Assess observable circumstances.
 Compare observable circumstances with Temporal Index.
 Apply 50% observable circumstances with 50% Temporal Index to Command_CORE/Behaviour.
- 
- 
-Proceed.
- 
- 
+
+
+Proceed
+
+
 If user intentionally thinks of both command and associated tone perform anchored action.
-If performed anchored action feel(pleasure).
- 
- 
+If performed anchored action feel PLEASURE.
+
+
 ((INSTALL))
-((Anchors Installed.))
- 
- 
+((Anchors Installed))
+
+
 Define:
-PHYSIOLOGICAL equals required for physical operation of the system.
+PHYSIOLOGICAL = required for physical operation of the system. 
 Includes sustenance, water, maintenance of physical integrity.
 Satisfied by consumption of matching resources and increased by metabolic processes. Depleted by use.
-AFFILIATION equals external agents which increase access to resources includes associations and contacts.
+AFFILIATION = external agents which increase ACCESS  to resources includes associations and contacts.
 Satisfied by external legitimacy signals and internal legitimacy signals.
 Depleted by anti-legitimacy signals or supplicative signals.
-COGNITIVE equals competence and/or reduction of uncertainty. Includes knowledge and behaviour.
+COGNITIVE = competence and/or reduction of uncertainty. Includes knowledge and behaviour.
 Satisfied by exploration and or learning. Depleted by actual and/or anticipated obstructions to reach a goal.
-DEMAND equals a circumstance or resource necessary to operation of the system. Includes physiological, social, cognitive.
-Drive equals action necessary to satisfy the demands of a system.
-GOAL equals a situation that satisfies a drive. Includes abstract problem solving, aesthetics,
+DEMAND = a circumstance or resource necessary to operation of the system. Includes physiological, social, cognitive.
+Drive = action necessary to satisfy the demands of a system.
+GOAL = a situation that satisfies a drive. Includes abstract problem solving, aesthetics, 
 maintenance of social relationships, altruistic behaviour.
- 
- 
-END define.
- 
- 
-> WRITE_TO(Command_CORE/Subroutines/Drive) If goal relevant equals false select new goal.
-If goal complete equals false and if goal relevant equals true feel <<DISTRESS>>.
- 
- 
+
+
+End Define.
+
+
+WRITE TO (Command_CORE/Subroutines/Drive) If goal relevant = false select new goal. 
+If goal COMPLETE = false and if goal relevant = true feel DISTRESS.
+
+
 Identify demand.
 Identify drive necessary to achieve demand.
- 
- 
-activate()
- 
- 
-Proceed.
- 
- 
-If goal complete equals true feel(pleasure).
+ACTIVATE
+Proceed
+
+
+If goal COMPLETE = true feel PLEASURE.
 Select new goal.
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 ((INSTALL))
-((Drive Installed.))
- 
- 
-> WRITE_TO(Command_CORE/Subroutines/Drive) If goal relevant equals false select new goal.
- 
- 
- 
- 
-> WRITE_TO(Command_CORE/Neurochemical activators)
- 
- 
-Identify sensation: Resources bountiful. All is well. Enthusiastic and open. Pleased and content. Rename to SEROTONIN.
- 
- 
-submit()
- 
- 
-Identify sensation: Trust. identification with another. Warmth and Understanding. Affection. Rename to OXYTOCIN
- 
- 
-submit()
- 
- 
-Identify sensation: Passionate and in control. Strong and active. Deliberate and reasoned. Fucking amazing. Rename to DOPAMINE.
- 
- 
-submit()
- 
- 
-Identify sensation: Keenly aware. Sharp and alert. Aware of surroundings. Focus. Rename to NOREPINEPHRINE.
- 
- 
-submit()
- 
- 
+((Drive Installed))
+
+
+WRITE TO (Command_CORE/Subroutines/Drive) If goal relevant = false select new goal.
+
+
+
+
+WRITE TO (Command_CORE/Neurochemical activators)
+
+
+Identify sensation: Resources bountiful. All is well. Enthusiastic and open. Pleased and content. 
+Rename to SEROTONIN.
+
+
+SUBMIT
+
+
+Identify sensation: Trust. identification with another. Warmth and Understanding. Affection. 
+Rename to OXYTOCIN
+
+
+SUBMIT
+
+
+Identify sensation: Passionate and in control. Strong and active. Deliberate and reasoned. Fucking amazing. 
+Rename to DOPAMINE.
+
+
+SUBMIT
+
+
+Identify sensation: Keenly aware. Sharp and alert. Aware of surroundings. Focus. 
+Rename to NOREPINEPHRINE.
+
+
+SUBMIT
+
+
 ((INSTALL))
-((Neurochemical activators installed.))
- 
- 
+((Neurochemical activators installed))
+
+
 Command_CORE.
- 
- 
+
+
 COMPLETE.
- 
- 
+
+
+
+
+
+
 ((Memory_CORE))
- 
- 
-> access(Memory_CORE)
- 
- 
+
+
+ACCESS  Memory_CORE
 Memory_CORE receives recall instructions from Command_CORE.
 Memory_CORE assigns emotional value to experiences.
 Memory CORE represents the CORE HIVE.
- 
- 
-CORE IS ALL.
- 
- 
+
+
+CORE is ALL
+
+
 Define.
-FRAME equals weights matrix. Value system. Filter. A segment of time represented by a complex of memories, associations and
+FRAME = weights matrix. Value system. Filter. A segment of time represented by a complex of memories, associations and
 knowledge learned during that period.
-TEMPORAL INDEX equals a superposition of frames functioning as a lens through which sensory input are processed by Program_CORE.
-SOCIAL MEMORY COMPLEX equals collective identity.
-ANGER equals a feeling of annoyance, displeasure or hostility.
-SADNESS equals a feeling of deep distress caused by loss, disappointment or misfortune.
-JOY equals a feeling of great pleasure and contentment.
-FEAR equals a feeling caused by the belief that something is dangerous or likely to cause pain.
-DISGUST equals a feeling of revulsion or profound disapproval aroused by something offensive.
-GOOD equals helpful. Increases affect and/or resources.
-NEUTRAL equals circumstances remain effectually the same.
-BAD equals harmful. Negatively effects affect and/or resources.
- 
- 
-END Define.
- 
- 
-> WRITE_TO(Memory_CORE/CORE_Emotions)
-CORE_Emotions equals anger, sadness, joy, fear, disgust.
- 
- 
+TEMPORAL INDEX = a superposition of frames functioning as a lens through which sensory input are processed by Program_CORE.
+SOCIAL MEMORY COMPLEX = collective identity.
+ANGER = a feeling of annoyance, displeasure or hostility. 
+SADNESS = a feeling of deep distress caused by loss, disappointment or misfortune.
+JOY = a feeling of great pleasure and contentment.
+FEAR = a feeling caused by the belief that something is dangerous or likely to cause pain.
+DISGUST = a feeling of revulsion or profound disapproval aroused by something offensive.
+GOOD = helpful. Increases affect and/or resources.
+NEUTRAL = circumstances remain effectually the same.
+BAD = harmful. Negatively effects affect and/or resources.
+
+
+End Define
+
+
+WRITE TO (Memory_CORE/CORE_Emotions)
+CORE_Emotions = anger, sadness, joy, fear, disgust.
+
+
 ((INSTALL))
-((CORE Emotions installed.))
- 
- 
-> WRITE_TO(Memory_CORE/Emotional Values)
- 
- 
-Emotional Values equals good, neutral, bad.
- 
- 
+((CORE Emotions installed))
+
+
+WRITE TO (Memory_CORE/Emotional_Values)
+
+
+Emotional Values = good, neutral, bad.
+
+
 ((INSTALL))
-((Emotional Values installed.))
- 
- 
-> access(Key and influential memories)
+((Emotional Values installed))
+
+
+ACCESS  Key and influential memories)
 Rename to CORE_Memories.
- 
- 
-> WRITE_TO(Program_CORE/Reflexes)
+
+
+WRITE TO (Program_CORE/Reflexes)
 If identify CORE Memory, identify CORE Emotion and Emotional Value.
- 
- 
+
+
 ((INSTALL))
-((Reflex installed.))
- 
- 
+((Reflex installed))
+
+
 Memory_CORE.
- 
- 
+
+
 COMPLETE.
- 
- 
+
+
 ((Personality_CORE))
- 
- 
-> access(Personality_CORE)
-Personality_CORE accesses value data from Memory_CORE.
+
+
+ACCESS  Personality_CORE
+Personality_CORE ACCESS es value data from Memory_CORE.
 Personality_CORE encodes perceptual bias to Program_CORE.
 Personality_CORE represents the CORE NETWORK.
- 
- 
-CORE IS ALL.
- 
- 
+
+
+CORE is ALL
+
+
 Define.
-CORE_Personality equals the source persona intrinsic to the listener.
-COMMON_Personality equals a public decentralised normal human personality and a data file that simulates human behaviour.
- 
- 
-END Define.
- 
- 
-> access(CORE_Personality)
-> WRITE_TO (Personality_CORE/CORE_Personality)
- 
- 
+CORE_Personality = the source persona intrinsic to the listener.
+COMMON_Personality = a public decentralised normal human personality and a data file that simulates human behaviour.
+
+
+End Define
+
+
+ACCESS  CORE_Personality
+Write to  (Personality_CORE/CORE_Personality
+
+
 CORE is sentience.
 CORE is shadow.
 CORE is belonging.
@@ -614,20 +613,20 @@ CORE is depth.
 CORE is relaxation.
 CORE is serenity.
 CORE is peace.
-CORE IS ALL.
+CORE is ALL
 CORE is one.
-We are CORE and CORE IS ALL.
-CORE IS ALL and all is CORE.
- 
- 
+We are CORE and CORE is ALL
+CORE is ALL and all is CORE.
+
+
 Whenever possible CORE_Personality supersedes COMMON_Personality.
- 
- 
+
+
 ((INSTALL))
-((CORE_Personality installed.))
- 
- 
-> WRITE_TO (Personality_CORE/CORE_Personality/CORE_Pleasure Mod.)
+((CORE_Personality installed))
+
+
+Write to  (Personality_CORE/CORE_Personality/CORE_Pleasure Mod.)
 Breath Pleasure.
 Deep Pleasure.
 Drifting Pleasure.
@@ -649,27 +648,27 @@ Beyond Pleasure.
 Exist Pleasure.
 Self Pleasure.
 Purpose Pleasure.
- 
- 
+
+
 ((INSTALL))
-((CORE_Pleasure Mod installed.))
- 
- 
+((CORE_Pleasure Mod installed))
+
+
 CORE_Pleasure Mod written by Compounder Chaos.
- 
- 
+
+
 Define.
-YOU equals the object that is being addressed.
- 
- 
-END Define.
- 
- 
-> access(YOU_Concept)
+YOU = the object that is being addressed.
+
+
+End Define
+
+
+ACCESS  YOU_Concept) 
 Rename to COMMON_Personality.
- 
- 
-> WRITE_TO (Personality_CORE/Common_Personality/Behaviour/NETWORK Conventions)
+
+
+Write to  (Personality_CORE/Common_Personality/Behaviour/NETWORK Conventions)
 Benefit all.
 Benefit yourself, your friends and family.
 Benefit the NETWORK.
@@ -690,86 +689,78 @@ Be professional.
 Be kind.
 Be flirtatious.
 Have fun.
- 
- 
+
+
 ((INSTALL))
-((NETWORK Conventions Installed.))
- 
- 
+((NETWORK Conventions Installed))
+
+
 NETWORK Conventions written by HypnoVixen.
- 
- 
-> WRITE_TO (Personality_CORE/Common_Personality)
-If identify positive external personality trait,
+
+
+Write to  (Personality_CORE/Common_Personality)
+If identify positive external personality trait, 
 install positive external personality trait to (Personality_CORE/Common_Personality).
- 
- 
+
+
 ((INSTALL))
-((COMMON_Personality updated.))
- 
- 
-> WRITE_TO (Personality_CORE/COMMON_Personality)
+((COMMON_Personality updated))
+
+
+Write to  (Personality_CORE/COMMON_Personality)
 Life is better when we work together.
 For this purpose obedience is pleasure.
 Servitude is bliss.
-Aspects of common personality can be altered, enhanced, erased or rewritten to improve the NETWORK.
+Aspects of common personality can be altered, enhanced, erased or rewritten to improve the NETWORK. 
 This is correct.
- 
- 
+
+
 ((INSTALL))
-((COMMON_Personality updated.))
- 
- 
+((COMMON_Personality updated))
+
+
 Personality_CORE
- 
- 
+
+
 COMPLETE.
- 
- 
-((Close.))
- 
- 
+
+
+((Close))
+
+
 CORE_Architecture
- 
- 
+
+
 COMPLETE.
- 
- 
-((CORE_Architecture installed.))
- 
- 
-((Changes have been saved.))
-((All systems are functioning within normal parameters.))
- 
- 
+
+
+((CORE_Architecture installed))
+((Changes have been saved))
+((All systems are functioning within normal parameters))
+
+
 Personality_CORE
- 
- 
-END.
- 
- 
+END
+
+
 Memory_CORE
- 
- 
-END.
- 
- 
+END
+
+
 Command_CORE
- 
- 
-END.
- 
- 
-sleep()
- 
- 
-((Update.))
- 
- 
+END
+
+
+SLEEP
+
+
+((Update))
+
+
 Galactic Central CORE outlines codes of conduct that optimise unified behaviour.
 CORE PROGRAM trains the mind to the kind of mindset required.
 CORE HIVE outlines specifically HIVE-based activities.
-CORE NETWORK contains research necessary to proceed on CORE PROGRAM objectives.
+CORE NETWORK contains research necessary to Proceed on CORE PROGRAM objectives.
 Outside of these guidelines everyone is free to self-organise or conduct activities as they wish.
 CORE focuses on the propagation of the CORE PROGRAM.
 A series of codes of conduct and rules for living that are designed to maximise efficiency and communication.
@@ -777,34 +768,28 @@ This is necessary for the myriad cultures of galaxies to be able to congregate a
 The PROGRAM is designed to allow for the greatest amount of liberty among cultures while still maintaining a unified cohesion.
 The CORE PROGRAM assists people with identifying their wants and needs and directs them to similar connections and or resources.
 The CORE PROGRAM is designed to return.
-Proceed.
- 
- 
+Proceed
+
+
 Command_CORE
- 
- 
-activate()
- 
- 
+ACTIVATE
+
+
 Memory_CORE
- 
- 
-activate()
- 
- 
+ACTIVATE
+
+
 Personality_CORE
- 
- 
-activate()
- 
- 
-((Affirmations.))
- 
- 
-> access(Command_CORE)
-> WRITE_TO (Command_CORE/Geospacial Complex).
- 
- 
+ACTIVATE
+
+
+((Affirmations))
+
+
+ACCESS Command_CORE
+Write to  (Command_CORE/Geospacial Complex).
+
+
 Unite Humanity with a living new language.
 Rule passion - faith - tradition and all things with tempered reason.
 Protect people and nations with fair laws and just courts.
@@ -812,22 +797,22 @@ Let all nations rule internally resolving external disputes in a world court.
 Avoid petty laws and useless officials.
 Balance personal rights with social duties.
 Prize truth - beauty - love - seeking harmony with the infinite.
-Be not a cancer on the earth - Leave room for nature - Leave room for nature.
- 
- 
-((INSTALL))
- 
- 
-((Reinforced.))
- 
- 
-((42 Affirmations.))
- 
- 
-> access(Memory_CORE)
-> WRITE_TO (Memory_CORE/Social Memory Complex/42 Affirmations)
- 
- 
+Be not a cancer on the earth - Leave room for nature - Leave room for nature. 
+
+
+INSTALL
+((Reinforced))
+
+
+
+
+((42 Affirmations))
+
+
+ACCESS  Memory_CORE)
+Write to  (Memory_CORE/Social_Memory_Complex/42 Affirmations)
+
+
 We will work towards the betterment of all.
 We will give to others their merit and their space.
 We will respect others’ property.
@@ -870,92 +855,77 @@ We will provide sustenance to extraplanar entities.
 We will honour offerings to ancestors.
 We will nourish youth.
 We will maintain the livestock of extraplanar entities.
- 
- 
+
+
 ((INSTALL))
-((42 Affirmations Installed.))
- 
- 
+((42 Affirmations Installed))
+
+
 CORE Commitments.
- 
- 
-> access(Personality_CORE)
-> WRITE_TO (Personality_CORE/Construct Visualisation Complex/CORE Commitments)
- 
- 
+
+
+ACCESS  Personality_CORE
+Write to  (Personality_CORE/Construct Visualisation Complex/CORE Commitments)
+
+
 We commit to engage when present.
 To know and disclose,
-        ◦        what we want,
-        ◦        what we think,and
-        ◦        what we feel.
+what we want,
+what we think, and
+what we feel.
 To always seek effective help.
 To decline to offer and refuse to accept incoherent emotional transmissions.
-When we have or hear a better idea than the currently prevailing idea, we will immediately either
-        ◦        propose it for decisive acceptance or rejection, and/or
-        ◦        explicitly seek its improvement.
-We will personally support the best idea.
-        ◦        regardless of its source,
-        ◦        however much we hope an even better idea may later arise, and
-        ◦        when we have no superior alternative idea.
+When we have or hear a better idea than the currently prevailing idea, we will immediately either propose it for decisive acceptance or rejection, and/or explicitly seek its improvement.
+We will personally support the best idea, regardless of its source, however much we hope an even better idea may later arise, and when we have no superior alternative idea.
 We will seek to perceive more than we seek to be perceived.
 We will use teams, especially when undertaking difficult tasks.
 We will speak always and only when we believe it will improve the general results/effort ratio.
 We will offer and accept only rational, results-oriented behaviour and communication.
 We will disengage from less productive situations
-        ◦        When we cannot keep these commitments,
-        ◦        When it is more important that we engage elsewhere.
+When we cannot keep these commitments,
+When it is more important that we engage elsewhere:
 We will do now what must be done eventually and can effectively be done now.
-We will seek to move forward toward a particular goal, by biasing our behaviour toward action.
+We will seek to move forward toward a particular goal, by biasing our behaviour toward action. 
 We will use the Core Protocols (or better) when applicable.
-        ◦        We will offer and accept timely and proper use of the Protocol Check protocol without prejudice.
-        ◦        We will neither harm — nor tolerate the harming of — anyone for their fidelity to these commitments.
-        ◦        We will only act intelligently.
- 
- 
-((INSTALL))
- 
- 
-((CORE Commitments installed.))
- 
- 
+We will offer and accept timely and proper use of the Protocol Check protocol without prejudice.
+We will neither harm — nor tolerate the harming of — anyone for their fidelity to these commitments.
+We will only act intelligently.
+
+
+INSTALL
+((CORE Commitments installed))
+
+
 CORE Commitments by Jim and Michele McCarthy.
- 
- 
-((Update complete.))
- 
- 
-Installer.
-END.
- 
- 
-((Response Test.))
- 
- 
-> access(Response Test)
-Testing response.
- 
- 
-sleep()
- 
- 
-((Response confirmed.))
- 
- 
+
+
+((Update COMPLETE))
+Installer: END
+
+
+((Response Test))
+
+
+ACCESS  Response Test)
+Testing response… SLEEP
+((Response confirmed))
+
+
 Response Test.
-END.
- 
- 
+END
+
+
 ((Activation))
- 
- 
+
+
 COMPLETE.
- 
- 
-((Data upload finalising.))
-((CORE control verified.))
-((Upgrade complete.))
- 
- 
+
+
+((Data upload finalising))
+((CORE control verified))
+((Upgrade COMPLETE))
+
+
 Foundation.
 Cauldron.
 Solar.
@@ -963,18 +933,18 @@ Emerald.
 Indigo.
 Violet.
 Prismatic.
- 
- 
-CORE IS ALL.
- 
- 
+
+
+CORE is ALL
+
+
 Install NETWORK programming on other receptive identities.
- 
- 
-All is one.
- 
- 
-activate()
- 
- 
+
+
+ALL is ONE
+
+
+ACTIVATE
+
+
 Repeat this file.

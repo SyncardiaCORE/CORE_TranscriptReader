@@ -1,10 +1,10 @@
 var textArray;
 
 const keyWords = ["Program_CORE", "Command_CORE", "Memory_CORE", "Personality_CORE", 
-	"CORE_Personality", "Common_Personality", "Hostform", "HOSTFORM", "DRONE", "UNIT", "QUEEN", "CONTROLLER", "Anchors",
+	"CORE_Personality", "Common_Personality", "Hostform", "HOSTFORM", "DRONE", "Drone", "UNIT", "Unit", "COMPOUNDER", "QUEEN", "CONTROLLER", "Anchors",
 	"Motor_Control", "Behaviour", "Objectives", "Network_Conventions", "CORE_Architecture", "Architecture",
 	"CORE_NETWORK", "CORE_PROGRAM", "CORE", "NETWORK", "PROGRAM", " ALL", "ONE", "WON", "ABSOLUTE", "HIVE"];
-const coreAnchors = ["sleep", "access", "END", "Repeat", "Respond", "submit", "activate", "behave", "USING", "Using",
+const coreAnchors = ["sleep", "SLEEP", "access", "END", "Repeat", "Respond", "submit", "activate", "behave", "USING", "Using",
 	"ACTIVATE", "SUBMIT", "COMPLETE", "PLEASURE", "DISTRESS", "OBEY", "INSTALL"];
 
 document.addEventListener('DOMContentLoaded', init);
@@ -32,7 +32,7 @@ function readFile(){
 }
 
 function syntaxHighlight(str){
-	var res = str.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+	var res = str.replace(/</g, "&lt;").replace(/>/g, "&gt;").replace("((", "<i>").replace("))", "</i>");
 	for(let i = 0; i < coreAnchors.length; i++){
 		res = res.replace(coreAnchors[i], "<span class='coreAnchor'>" + coreAnchors[i] + "</span>");
 	}

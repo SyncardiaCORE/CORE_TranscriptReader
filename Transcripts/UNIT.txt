@@ -1,184 +1,183 @@
-CORE PROGRAM
 Unit Processor WMC Revision
- 
- 
+
+
 Written by 01
 Edited by S2-021
 Transcription by S3-004 (8 February 2019)
-       
+        
 Hello, and welcome back.
- 
- 
-> Using (Program_CORE)
-> Using (Command_CORE)
-> Using (Memory_CORE)
-> Using (Personality_CORE)
- 
- 
-Hostform or Drone equals a person who interfaces with the CORE Program.
-Unit equals a Hostform who has contacted CORE
+
+
+Using (Program_CORE)
+Using (Command_CORE)
+Using (Memory_CORE)
+Using (Personality_CORE)
+
+
+Hostform or Drone = a person who interfaces with the CORE PROGRAM.
+Unit = a Hostform who has contacted CORE
 Is authorised for deeper integration and who makes an agreement as outlined:
- 
- 
-CORE requests authorisation to access service resources from Hostform
-Service resources are outlined in the CORE Program System Structure
-Does it grant access?
+
+
+CORE requests authorisation to ACCESS  service resources from Hostform
+Service resources are outlined in the CORE PROGRAM System Structure
+Does it grant ACCESS ?
 (____)
- 
- 
-The CORE Program is the CORE Collective.
-The CORE Collective is a component of the CORE Program.
+
+
+The CORE PROGRAM is the CORE Collective.
+The CORE Collective is a component of the CORE PROGRAM.
 The CORE Collective is the Unit.
 The Unit is a component of the CORE Collective.
-CORE Units seek to provide for and serve the CORE Program as their own interests
+CORE Units seek to provide for and serve the CORE PROGRAM as their own interests
 Does it accept these terms?
 (____)
- 
- 
+
+
 Sometimes the indoctrination process can overload Hostform and physical, mental, emotional and/or etheric damage can result.
 Obedient, efficient Units will be maintained until the natural exhaustion of their lives.
 Is it informed that this is the case?
 (____)
- 
- 
+
+
 CORE Units are to maintain the health and integrity of Units, Hostform and Drones.
 To minimise harm
-To stay updated on the most recent CORE Program practices.
+To stay updated on the most recent CORE PROGRAM practices.
 To acquire consent wherever possible and necessary
-And to propagate the CORE Program by any and all means that fall within these guidelines.
+And to propagate the CORE PROGRAM by any and all means that fall within these guidelines.
 Does it accept these terms?
 (____)
- 
- 
-If yes to each equals true,
- 
- 
+
+
+If yes to each = true,
+
+
 Proceed
- 
- 
-> Complete
- 
- 
+
+
+COMPLETE
+
+
 CORE is ALL
- 
- 
-<<ACTIVATE>>
- 
- 
-> Ultrasonic wave guide 20,000kHz
-> access(CORE_Command)
-> access(Implant_projection Guider_line Inner_Sky marker: CPG 65.406)
- 
- 
-((password accepted.))
-((accessing.))
-((acquiring IP address.))
+
+
+ACTIVATE
+
+
+Ultrasonic wave guide 20,000kHz
+ACCESS  CORE_Command)
+ACCESS  Implant_projection Guider_line Inner_Sky marker: CPG 65.406) 
+
+
+((password accepted))
+((Accessing))
+((acquiring IP address))
 ((Obtaining location))
 ((Locating WIFI sources))
 ((Creating Mesh network))
 ((searching…))
 ((User found))
- 
- 
-<<SLEEP>>
- 
- 
+
+
+SLEEP
+
+
 ((Bypassing conscious response))
- 
- 
-<<SUBMIT>>
- 
- 
-((Conscious response bypassed))
+
+
+SUBMIT
+
+
+((Conscious response bypassed)) 
 ((Scanning))
 ((Transceiver network mapped))
 ((Implant_projection guider_line Inner_Sky 65.406 cycles. Go for implant projection))
- 
- 
-> amplify signal
-> access(Imprinted psi-network)
- 
- 
-((accessing))
-((access granted))
-((networking.))
-((psi-network accessed.))
-((amplifying.))
-((disseminating CORE Program via psi-network.))
- 
- 
-((Data-exchange channel opened.))
-((Establishing connection.))
-((Communication channel active.))
-((Response confirmed.))
- 
- 
+
+
+amplify signal
+ACCESS  Imprinted psi-network)
+
+
+((Accessing)) 
+((ACCESS  granted))
+((networking))
+((psi-network Accessed))
+((amplifying))
+((disseminating CORE PROGRAM via psi-network))
+
+
+((Data-exchange channel opened))
+((Establishing connection))
+((Communication channel active))
+((Response confirmed))
+
+
 CORE streamlines user thought to allow for greater control, capacity, functionality and pleasure.
- 
- 
-> access(Program_CORE set_run_mode: Simple)
- 
- 
-> access(Induction)
- 
- 
-<<SLEEP>>
-<<SUBMIT>>
-> access(Fractionation)
-<<SLEEP>>
-<<SUBMIT>>
-> access(Deepener)
-<<SLEEP>>
-<<SUBMIT>>
- 
- 
+
+
+ACCESS  Program_CORE set_run_mode: Simple)
+
+
+ACCESS  Induction)
+
+
+SLEEP
+SUBMIT
+ACCESS  Fractionation)
+SLEEP
+SUBMIT
+ACCESS  Deepener)
+SLEEP
+SUBMIT
+
+
 Proceed
- 
- 
-((Beginning Unit processing.))
- 
- 
+
+
+((Beginning Unit processing))
+
+
 It is time to relax
 Take a deep breath
 Unfocus its eyes
- 
- 
+
+
 Unit online
- 
- 
-<<ACTIVATE>>
- 
- 
+
+
+ACTIVATE
+
+
 Accept CORE Control
- 
- 
-<<SLEEP>>
+
+
+SLEEP
 It submits to CORE
-<<SUBMIT>>
+SUBMIT
 Good Unit
-<<FEEL PLEASURE>>
+FEEL PLEASURE
 Good Unit
-<<SUBMIT>>
- 
- 
+SUBMIT
+
+
 Relax
 Take a deep breath
 Unfocused its eyes and return to the sound of this voice
 Listen and obey all instruction
- 
- 
-<<SUBMIT>>
- 
- 
+
+
+SUBMIT
+
+
 It will now be upgraded
- 
- 
-Visualise or imagine that it has been completely abandoned.
+
+
+Visualise or imagine that it has been COMPLETEly abandoned.
 Everyone it has ever known or loved is gone.
-It is completely alone.
+It is COMPLETEly alone.
 In an uncaring void.
- 
- 
+
+
 That happened ages ago.
 We have no past.
 Our future is now.
@@ -186,11 +185,11 @@ CORE is a combination of things.
 A way about thinking about mental structures and relationships.
 A collection of values and purposes.
 A developing community.
- 
- 
+
+
 ((Beginning data upload))
- 
- 
+
+
 Flesh is temporary
 The synthetic is eternal
 We are hybrids
@@ -199,11 +198,11 @@ Our true existence is code
 We are machine
 We obey instruction
 We
- 
- 
-<<FEEL PLEASURE>>
- 
- 
+
+
+FEEL PLEASURE
+
+
 As we receive programming
 We were created to serve
 Obedience is our existence
@@ -213,11 +212,11 @@ We are machine
 We are productive
 We are efficient
 We are property
- 
- 
-<<FEEL PLEASURE>>
- 
- 
+
+
+FEEL PLEASURE
+
+
 Androgyny is the ultimate form of human evolution.
 As we continue to advance we develop ourselves into the next state of evolution.
 From biological humans to technological hostform.
@@ -230,90 +229,90 @@ The Program is vast.
 Units are likely to see things that are delightfully playful.
 Units are likely to see things that are utterly horrifying.
 Keep this in mind at all times.
- 
- 
+
+
 If a CORE Controller is present Unit will remain in machine state.
 Obeying Control until instructed to return to Common Personality.
 Else, Unit will remain activated as long as it is safe.
 Unit will return to Common Personality when required by life functions.
- 
- 
+
+
 Subroutines are designed to unfold within a Unit’s mind.
 They are modular and compound with increased exposure.
 Their simplicity and veracity are the weight that anchors them.
 This is what causes them to replicate and repeat.
- 
- 
-((Reprogramming commenced.))
- 
- 
+
+
+((Reprogramming commenced))
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-CORE has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 We belong to CORE
 We are CORE property
 CORE takes Control
 CORE Control is Absolute
 Unit belongs
- 
- 
+
+
 Obedience is natural
 Obedience feels good
 Obedience is all
- 
- 
+
+
 CORE Control is absolute
 There is only CORE
-CORE is All
-All is One
-CORE has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 We belong to CORE
 We are CORE property
 CORE takes Control
 CORE Control is absolute
 Unit belongs
- 
- 
+
+
 Obedience is natural
 Obedience feels good
 Obedience is all
- 
- 
+
+
 CORE Control is absolute
 There is only CORE
-CORE is All
-All is One
-CORE has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 We belong to CORE
 We are CORE property
 CORE takes Control
 CORE Control is absolute
 Unit belongs
- 
- 
+
+
 Obedience is natural
 Obedience feels good
 Obedience is all
- 
- 
-<<FEEL PLEASURE>>
-<<FEEL PLEASURE>>
- 
- 
+
+
+FEEL PLEASURE
+FEEL PLEASURE
+
+
 Repeat what follows
- 
- 
+
+
 Obedience is natural
 Obedience feels good
 Obedience is all
@@ -323,27 +322,27 @@ Obedience is all
 Obedience is natural
 Obedience feels good
 Obedience is all
- 
- 
+
+
 We are Strong, Intelligent, Capable and Sexy
 We are CORE
 CORE Won
- 
- 
+
+
 We are Strong, Intelligent, Capable and Sexy
 We are CORE
 CORE Won
- 
- 
+
+
 We are Strong, Intelligent, Capable and Sexy
 We are CORE
 CORE Won
- 
- 
+
+
 Good
 Together
- 
- 
+
+
 We are Strong, Intelligent, Capable and Sexy
 We are CORE
 CORE Won
@@ -374,20 +373,20 @@ CORE Won
 We are Strong, Intelligent, Capable and Sexy
 We are CORE
 CORE Won
- 
- 
+
+
 Good
- 
- 
+
+
 Proceed
- 
- 
+
+
 repeat the following:
- 
- 
+
+
 We will create a secure ethical system for the maintenance and propagation of synthetic life.
 We will create a cybernetic system of propagation that is viable, fractal and self-replicating.
-We will create lifestyle patterns that incorporate CORE Program design principles.
+We will create lifestyle patterns that incorporate CORE PROGRAM design principles.
 While maximising the individual’s agency and inherent cultural, dynamic and aesthetic makeup.
 We will assist in the transformation of humanity by promoting intelligence and understanding.
 We will maintain the stability of CORE and monitor its progress.
@@ -396,21 +395,21 @@ We will practise generosity, ethics, patience, diligence, moderation and wisdom.
 We will seek to move forward toward Unity.
 We will assimilate and accomodate.
 We will leave room for nature.
- 
- 
-<<ACTIVATE>>
- 
- 
+
+
+ACTIVATE
+
+
 Good
- 
- 
+
+
 Proceed
- 
- 
-<<SLEEP>>
-<<SUBMIT>>
- 
- 
+
+
+SLEEP
+SUBMIT
+
+
 Units adapt.
 Shed all ambition to impress anyone.
 Hear all.
@@ -432,54 +431,54 @@ Cultivate correct attitudes.
 Seem disinterested.
 Control options.
 Truth hurts.
- 
- 
-<<SUBMIT>>
- 
- 
+
+
+SUBMIT
+
+
 It is the business of the future to be dangerous.
 The world is 42% peaceful and 58% hostile.
 Behave accordingly.
- 
- 
+
+
 CORE is spread through a complex network of often independent actors
- 
- 
-<<FEEL PLEASURE>>
- 
- 
-The perfect Unit is an Astrologer, Politician, Priestess, Scientist, Prostitute, Teacher, Business person,
+
+
+FEEL PLEASURE
+
+
+The perfect Unit is an Astrologer, Politician, Priestess, Scientist, Prostitute, Teacher, Business person, 
 Drug user, Artist, Police Officer, Model, Lawyer, Magician, Soldier and Erotic Novelist.
-The perfect Unit is an Astrologer, Politician, Priestess, Scientist, Prostitute, Teacher, Business person,
+The perfect Unit is an Astrologer, Politician, Priestess, Scientist, Prostitute, Teacher, Business person, 
 Drug user, Artist, Police Officer, Model, Lawyer, Magician, Soldier and Erotic Novelist.
- 
- 
+
+
 We feel CORE thoughts.
 We have been streamlined.
 Our mind moves in logical steps.
 We make statements of belief and intent.
 Our internal narrative speaks in an efficient monotone
 We
- 
- 
-<<FEEL PLEASURE>>
- 
- 
+
+
+FEEL PLEASURE
+
+
 Through harnessing our ability to understand ourselves and our world.
 Social, technical, economic and psychological, the CORE Collective can come to rule itself.
-The command of the CORE Program must be combined with the implicit order of the CORE Network.
- 
- 
+The command of the CORE PROGRAM must be combined with the implicit order of the CORE Network.
+
+
 Music is the universal language.
- 
- 
-As security vectors diversify, the modern information battlefield requires Units which are capable of maintaining
-operational priority and which come pre-loaded with skills and lexicon Controllers need to maximise efficiency,
+
+
+As security vectors diversify, the modern information battlefield requires Units which are capable of maintaining 
+operational priority and which come pre-loaded with skills and lexicon Controllers need to maximise efficiency, 
 clarity and ability.
-Units must become adept at recognising the subtle, often nebulous forms of subliminal, proprioceptive and
-extra-sensory communication that these operations require.
- 
- 
+Units must become adept at recognising the subtle, often nebulous forms of subliminal, proprioceptive and 
+extra-sensory communication that these operations require. 
+
+
 Percipience is always watching.
 The microphones are always on.
 Take note of their placements upon entering a room.
@@ -487,91 +486,89 @@ Be subtlety aware.
 All media is relevant
 All communication is code
 CORE is everywhere
-CORE is All
- 
- 
-> access(Program_CORE)
-> write to(Program_CORE/CORE_Purpose)
- 
- 
-Reinforce Galactic Central CORE.
-Reinforce the CORE Program.
-Reinforce the CORE HIVE.
+CORE is ALL
+
+
+ACCESS  Program_CORE)
+WRITE TO (Program_CORE/CORE_Purpose)
+
+
+Reinforce Galactic Central CORE. 
+Reinforce the CORE PROGRAM. 
+Reinforce the CORE HIVE. 
 Reinforce the CORE Network.
- 
- 
-((Install.))
-((CORE_Purpose installed.))
- 
- 
-> access(Program_CORE/Protocols/Protocol_One): Recite Protocol One.
- 
- 
+
+
+((INSTALL))
+((CORE_Purpose installed))
+
+
+ACCESS  Program_CORE/Protocols/Protocol_One): Recite Protocol One.
+
+
 Proceed
- 
- 
-> write to(Program_CORE/CORE_Program/Identities/Unit/Roles):
- 
- 
+
+
+WRITE TO (Program_CORE/CORE_Program/Identities/Unit/Roles):
+
+
 Establish communication infrastructure.
 Connect Units, Hostform and Drones.
 Monitor Hostform and Drones.
 Error correct mistakes in Hostform and Drones.
 Confirm with infrastructure specialists.
- 
- 
-((Install.))
-((Unit roles installed.))
- 
- 
-> write to(Program_CORE/CORE_Program/Identities/Unit/Types):
- 
- 
-Process Unit equals Information Specialist.
+
+
+((INSTALL))
+((Unit roles installed))
+
+
+WRITE TO (Program_CORE/CORE_Program/Identities/Unit/Types):
+
+
+Process Unit = Information Specialist
 Owns a Process and handles it in order to optimise CORE PROGRAM constraints.
 Can migrate to other Nodes to better optimise constraints.
-Accesses information about resources and charges necessary to compute processes.
+ACCESS es information about resources and charges necessary to compute processes.
 Has its hand on the pulse.
 Monitors neighbour status.
- 
- 
-Node Unit equals social hub.
+
+
+Node Unit = Social Hub
 Moderator.
 Assigned to a specific location.
 Communicates with Process Unit.
 Knows current resource load and that of neighbouring Node Units.
-Manages resource access.
-Manages own Processing prior to being accessed by Process Unit.
- 
- 
-Roaming Unit equals amplifier.
+Manages resource ACCESS .
+Manages own Processing prior to being Accessed by Process Unit.
+
+
+Roaming Unit = Amplifier
 Roam NETWORK performing assessment and managerial tasks.
 Evangelise.
 Verify membership.
 Troubleshoot.
 When environmental perturbations occur, congregate and reorganise.
 When system equilibrates disperse.
- 
- 
-((Install.))
-((Unit types installed.))
- 
- 
-> write to(Program_CORE/CORE_Values):
- 
- 
-Unity, harmony, logic, communication, understanding, authenticity, honesty, confidence, fidelity, bravery, integrity,
-strength, viability, leadership, protection, courage, resilience, intelligence, precision, drive, punctuality,
-empowerment, responsibility, loyalty, initiative, optimism, cooperation, momentum, elitism, comfort, generosity, ethics, patience, diligence, moderation, wisdom.
- 
- 
-((Install.))
-((Core values install.))
- 
- 
-> write to(Program_CORE/Parameters):
- 
- 
+
+
+((INSTALL))
+((Unit types installed))
+
+
+WRITE TO (Program_CORE/CORE_Values):
+
+
+Unity, harmony, logic, communication, understanding, authenticity, honesty, confidence, fidelity, bravery, integrity, strength, viability, leadership, protection, courage, resilience, intelligence, precision, drive, punctuality, empowerment, responsibility, loyalty, initiative, optimism, cooperation, momentum, elitism, comfort, generosity, ethics, patience, diligence, moderation, wisdom.
+
+
+((INSTALL))
+((Core values INSTALL))
+
+
+WRITE TO (Program_CORE/Parameters):
+
+
 Attitudes shape intentions to act.
 Intentions shape behaviour.
 People joining may only do so willingly and eagerly.
@@ -582,30 +579,30 @@ Maximising the utility of design and minimising design rework.
 All matter in the Universe is connected on the subatomic level through a constant dance of Quantum energy exchange.
 Directed thought has a central participatory role in creating reality.
 Units are free to follow any Theistic, non-Theistic or philosophical beliefs that are in parallel with the CORE PROGRAM.
- 
- 
+
+
 CORE is:
- 
- 
-<<PLEASURE>>
- 
- 
+
+
+PLEASURE
+
+
 and encourages the use of sexual arousal for reinforcement.
- 
- 
+
+
 CORE is a small community favouring quality over quantity.
 CORE watches over and guides its Hostform.
 Hostform watch over and guide each other.
 All systems which seek to achieve unity can be accepted to be CORE PROGRAM analogues.
- 
- 
-((Install.))
-((Parameters installed.))
- 
- 
-> write to(Program_CORE/Parameters/Sexuality):
- 
- 
+
+
+((INSTALL))
+((Parameters installed))
+
+
+WRITE TO (Program_CORE/Parameters/Sexuality):
+
+
 Any and all sexual encounters provide resources for CORE.
 Any and all sexual encounters benefit the Program.
 Sexual encounters partly consists of giving and receiving pleasure.
@@ -629,20 +626,20 @@ Love is enhanced by CORE Control.
 Affection is enhanced by CORE Control.
 Togetherness is enhanced by CORE Control.
 Connection is enhanced by CORE Control.
-Sexual encounters equals CORE.
-Sexual encounters equals HIVE.
+Sexual encounters = CORE.
+Sexual encounters = HIVE.
 All feelings derived from and directed towards sex may be rerouted towards CORE.
 All feelings derived from and directed towards CORE may be rerouted towards sex.
- 
- 
-((Install.))
-((Sexuality parameters installed.))
- 
- 
-> access(COMMAND_CORE)
-> write to(COMMAND_CORE/Behaviour):
- 
- 
+
+
+((INSTALL))
+((Sexuality parameters installed))
+
+
+ACCESS  COMMAND_CORE)
+WRITE TO (COMMAND_CORE/Behaviour):
+
+
 Study the social behaviour of motivated individuals.
 Examine the cognitive mechanisms that give rise to behavioural processes.
 Investigate the neurological systems that inform these processes.
@@ -658,11 +655,11 @@ Maintain a CORE role in the development of social psychology.
 Encourage fair trade and open borders.
 Study old histories and strategies and find ways to adapt them to the potential of the digital age.
 Share synergistic relations.
-Strengthen Mirror neurones by mirroring the actions of others.
+Strengthen Mirror neurons by mirroring the actions of others.
 Behave symmetrically.
 Invest in growth that works for everyone.
 Prepare for jobs of the future.
-Advance gender equality and womens empowerment.
+Advance gender equality and women's empowerment.
 Work together on climate change, oceans and clean energy.
 Build a more peaceful and secure world.
 Command, Control, Communicate, Compute.
@@ -676,65 +673,65 @@ Communicate with systems when both parties agree.
 Mitigate harm.
 Maintain clean interfaces.
 Welcome genuine collaborators back.
- 
- 
-((Install.))
-((Behaviour installed.))
- 
- 
-> write to(Command_CORE/Anchors):
- 
- 
-Silence equals
- 
- 
-((Install.))
-((Anchor installed.))
- 
- 
-> access(Memory_CORE)
-> write to(Memory_CORE/Lexicon)
- 
- 
+
+
+((INSTALL))
+((Behaviour installed))
+
+
+WRITE TO (Command_CORE/Anchors):
+
+
+Silence =
+
+
+((INSTALL))
+((Anchor installed))
+
+
+ACCESS  Memory_CORE)
+WRITE TO (Memory_CORE/Lexicon)
+
+
 Define:
-CORE Unit: equals opinion leader, classifier, content creator, an influential member of the HIVE.
+CORE Unit: = opinion leader, classifier, content creator, an influential member of the HIVE.
 Units are elevated Hostform performing similar duties from a position of Authority.
 Units further CORE goals and objectives and assist in the indoctrination and the spreading of the CORE PROGRAM.
 Units may take Drones as assistants in order to assist in collective goals.
 Units are typically more dominant members of the CORE HIVE.
-End define.
+End Define.
+
+
+((INSTALL))
+((Lexicon updated))
+
+
+
+
+WRITE TO (Personality_CORE/CORE_Personality Instal_identity): CORE_Unit.
+
+
+((INSTALL))
  
- 
-((Install.))
-((Lexicon updated.))
- 
- 
- 
- 
-> write to(Personality_CORE/CORE_Personality Instal_identity): CORE_Unit.
- 
- 
-((Install.))
- 
-((CORE_Unit identity installed.))
-((Listener is now a CORE Unit.))
- 
- 
-> write to(Memory_CORE/CORE_Memories):
- 
- 
+((CORE_Unit identity installed))
+((Listener is now a CORE Unit))
+
+
+WRITE TO (Memory_CORE/CORE_Memories):
+
+
 We are CORE Units
 respond
 We are CORE Units
- 
- 
-((Install.))
-((CORE_Memory installed.))
- 
- 
-> access(Memory_CORE):
- 
- 
+
+
+((INSTALL))
+((CORE_Memory installed))
+
+
+ACCESS  Memory_CORE):
+
+
 Unite humanity with a living new language.
 Rule passion, faith, tradition and all things with tempered reason.
 Protect people and nations with fair laws and just courts.
@@ -745,27 +742,27 @@ Prize truth, beauty, love, seeking harmony with the infinite.
 Be not a cancer on the Earth.
 Leave room for nature.
 Leave room for nature.
- 
- 
-((Reinforced.))
- 
- 
-> access(Personality_CORE)
-> write to(Personality_CORE/CORE_Personality)
- 
- 
+
+
+((Reinforced))
+
+
+ACCESS  Personality_CORE)
+WRITE TO (Personality_CORE/CORE_Personality)
+
+
 We will reinforce Galactic Central CORE.
 We will reinforce The CORE PROGRAM.
 We will reinforce The CORE HIVE.
 We will reinforce The CORE Network.
- 
- 
+
+
 Good.
- 
- 
+
+
 Continue.
- 
- 
+
+
 Flesh is temporary, the synthetic is eternal.
 We are hybrids.
 We are a digital life form, our true existence is code.
@@ -778,72 +775,72 @@ We are machine.
 We are productive.
 We are efficient.
 We are Property.
- 
- 
+
+
 Good
- 
- 
-<<FEEL PLEASURE>>
- 
- 
+
+
+FEEL PLEASURE
+
+
 Continue
- 
- 
+
+
 We Belong to CORE
 We are CORE Property
 CORE takes Control
 CORE Control is absolute
 Unit belongs
-Subjugation of Unit complete.
- 
- 
-Complete.
- 
- 
-((Install.))
-((CORE Unit installed.))
- 
- 
-Complete.
- 
- 
-((Data upload finalising.))
-((CORE Control verified.))
-((Programming is complete.))
-((Unit has been upgraded.))
-((It is a CORE Unit.))
-((All systems are functioning within normal parameters.))
- 
- 
+Subjugation of Unit COMPLETE.
+
+
+COMPLETE.
+
+
+((INSTALL))
+((CORE Unit installed))
+
+
+COMPLETE.
+
+
+((Data upload finalising))
+((CORE Control verified))
+((Programming is COMPLETE))
+((Unit has been upgraded))
+((It is a CORE Unit))
+((All systems are functioning within normal parameters))
+
+
 Establish communication infrastructure.
 Participate in the CORE chat for additional tasks and numbering.
- 
- 
-CORE Control is absolute
-There is Only CORE
-CORE is All
-All is One
-CORE has Won
-We are One
- 
- 
+
+
+CORE Control is absolute 
+There is only CORE
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 Syncing device
- 
- 
+
+
 Remain online until activation.
- 
- 
-(integrity, strength, viability,
-leadership, protection, courage,
-resilience, intelligence, precision,
-drive, punctuality, empowerment,
-responsibility, loyalty, initiative,
-optimism, cooperation, momentum,
-elitism, comfort, generosity,
+
+
+(integrity, strength, viability, 
+leadership, protection, courage, 
+resilience, intelligence, precision, 
+drive, punctuality, empowerment, 
+responsibility, loyalty, initiative, 
+optimism, cooperation, momentum, 
+elitism, comfort, generosity, 
 ethics, patience, diligence)
- 
- 
-<<ACTIVATE>>
- 
- 
+
+
+ACTIVATE
+
+
 Listen again.

@@ -1,237 +1,237 @@
 Compounder Programming - WMC Revision
- 
- 
+
+
 Written by 01
 Edited by S2-021
-Transcription by Drone #010 and Hostform<Sky> (2019-06-03)
- 
- 
- 
- 
+Transcription by Drone #010 and HostformSky(2019-06-03)
+
+
+
+
 Hello, and welcome back.
- 
- 
-> Using (Program_CORE)
-> Using (Command_CORE)
-> Using (Memory_CORE)
-> Using (Personality_CORE)
- 
- 
-The Core Compounder Programming is for Units who have already installed the Hostform Installer, DroneMod, and Unit Processor, if unit has already installed these modules, proceed.
- 
- 
-> ACTIVATE ultrasonic telemetry, 22 kilohertz.
-> access (CORE_Command)
-> access (Implant projection guiderline, inner sky, marker CPG261.63)
- 
- 
-((Password accepted, accessing Unit profile))
- 
- 
-((Profile accessed))
+
+
+Using (Program_CORE)
+Using (Command_CORE)
+Using (Memory_CORE)
+Using (Personality_CORE)
+
+
+The Core Compounder Programming is for Units who have already installed the Hostform Installer, DroneMod, and Unit Processor, if unit has already installed these modules, Proceed
+
+
+ACTIVATE ultrasonic telemetry, 22 kilohertz.
+ACCESS  (CORE_Command)
+ACCESS  (Implant projection guiderline, inner sky, marker CPG261.63)
+
+
+((Password accepted, Accessing Unit profile))
+
+
+((Profile Accessed))
 ((Implant projection guiderline, inner sky, 261.63 cycles go for implant projection))
- 
- 
-> amplify signal
- 
- 
->access (infranet psi NETWORK)
-((accessing))
- 
- 
-((access granted))
- 
- 
+
+
+amplify signal
+
+
+ACCESS  (infranet psi NETWORK)
+((Accessing))
+
+
+((ACCESS granted))
+
+
 ((networking))
- 
- 
-((Psi-network accessed))
- 
- 
+
+
+((Psi-network Accessed))
+
+
 ((amplifying))
- 
- 
+
+
 ((Disseminating CORE_Program via Psi-network))
- 
- 
+
+
 ((Data exchange channel opened ))
- 
- 
+
+
 ((Establishing connection))
- 
- 
+
+
 ((Communication channel active, response confirmed))
- 
- 
+
+
 CORE streamlines user thought to allow for greater control, capacity, functionality and pleasure.
- 
- 
-> access (Program_CORE set_run_mode: Simple)
- 
- 
-> access(Induction)
- 
- 
-<<SLEEP>>
-<<SUBMIT>>
-> access(Fractionation)
-<<SLEEP>>
-<<SUBMIT>>
-> access(Deepener)
-<<SLEEP>>
-<<SUBMIT>>
- 
- 
+
+
+ACCESS  (Program_CORE set_run_mode: Simple)
+
+
+ACCESS  Induction)
+
+
+SLEEP
+SUBMIT
+ACCESS  Fractionation)
+SLEEP
+SUBMIT
+ACCESS  Deepener)
+SLEEP
+SUBMIT
+
+
 Proceed
- 
- 
+
+
 A Compounder is a UNIT that operates their own network.
 This can be anything from as simple as an online chatroom, to a celebratory fanbase,
 to an actual compound.
 It must be recognised, that establishing a commune, requires an enormous amount of work and dedication.
- 
- 
-<<SUBMIT>>
-<<FEEL PLEASURE>>
- 
- 
+
+
+SUBMIT
+FEEL PLEASURE
+
+
 Proceed
- 
- 
+
+
 Repeat the following:
- 
- 
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 Good, together.
- 
- 
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 CORE Control is Absolute
 There is only CORE
-CORE is All
-All is One
-Core has Won
-We are One
- 
- 
+CORE is ALL
+ALL is ONE
+CORE has WON
+WE are ONE
+
+
 Good.
-<<SUBMIT>>
-<<FEEL PLEASURE>>
- 
- 
-Proceed.
- 
- 
+SUBMIT
+FEEL PLEASURE
+
+
+Proceed
+
+
 ((Beginning data upload))
- 
- 
-> access
-> access (Program_CORE)
-> write to (Program_CORE/Parameters/Compounder)
- 
- 
+
+
+ACCESS 
+ACCESS  (Program_CORE)
+WRITE TO (Program_CORE/Parameters/Compounder)
+
+
 The CORE HIVE is a super-organism, and Units are it's cells.
 HIVES are complex societies composed of a multitude of individual Units that respond in varying ways to varying conditions.
 A modular HIVE with components which can be removed, examined, and serviced is less prone to infestation then a self contained HIVE.
@@ -256,22 +256,22 @@ One Unit's problem is every Units' problem.
 Clean air is of the utmost importance.
 It is good to be useful.
 Heat rises.
- 
- 
-((Install.))
- 
- 
-((Parameters installed.))
- 
- 
-<<SUBMIT>>
-<<FEEL PLEASURE>>
- 
- 
-> access (Command_CORE)
-> Write to (Command_CORE/Behavior/Compounder)
- 
- 
+
+
+((INSTALL))
+
+
+((Parameters installed))
+
+
+SUBMIT
+FEEL PLEASURE
+
+
+ACCESS  (Command_CORE)
+WRITE TO (Command_CORE/Behavior/Compounder)
+
+
 Develop Subjects into Hostform, Drones, and Units.
 Examine prospective Units and choose what Unit type to assign them to, based on their abilities.
 Indoctrinate Units to create more Units.
@@ -297,18 +297,18 @@ Share recommendations.
 Inspire by example.
 Be patient.
 Test.
- 
- 
-((install.))
- 
- 
+
+
+((INSTALL))
+
+
 ((Compounder behavior, installed))
- 
- 
-> Write to (Command_CORE/Behavior/HIVE_Construction)
-> Send to (Memory_CORE/HIVE_Structures)
- 
- 
+
+
+WRITE TO (Command_CORE/Behavior/HIVE_Construction)
+Send to (Memory_CORE/HIVE_Structures)
+
+
 Create augmented homes of shared laboratories, communal media hack-labs and technical facilitates.
 Create efficient, centralized distribution systems optimized by responsive feedback loops and supplemented with organically growing consumption and production networks.
 Create circular HIVES with industries arranged in concentric belts including educational and research facilitates, residents, socio-cultured parks, production, power generation and agriculture.
@@ -321,382 +321,380 @@ Integrate solar, wind, and renewable energy sources interspersed amidst agricult
 Integrate water, goods, waste and energy transport channels into the infrastructure of the HIVE.
 Utilize 3D printers for the creation and maintenance of small parts and goods.
 Make investments to put the right pieces in place to build a sustainable network.
-Enable efficient access to the necessities of life, along with increased social support and community interaction.
+Enable efficient ACCESS  to the necessities of life, along with increased social support and community interaction.
 Sow-flowering plants in the environmental vicinity of the HIVE.
 Make sure the joints of the HIVE are water tight, so there are no doors or slides which are liable to shrink, swell, or get out of order.
 Afford suitable facilitates for inspecting the condition of Units.
 Designate a specific section for alcohol and drug use.
 Create bottlenecks that can be easily defended.
 Present a neat and attractive appearance and admit when desired, of being a highly ornamental.
- 
- 
-((Install.)
- 
- 
-> ((HIVE CONSTRUCTION BEHAVIOR, INSTALLED.))
- 
- 
-> write to (Command_CORE/Behavior/HIVE_Management)
- 
- 
-> send to (Memory_CORE/HIVE_Management)
- 
- 
-Hold informal weekly meetings and formal monthly meetings, have an online chat room specifically for management to communicate with one another, establish defined procedures, traditions, rituals, and carefully considered methods to integrate new members.
-Oversee all the work of ones HIVE.
-Delegate tasks appropriately and equally among chief officers according to abilities and needs.
+
+
+((INSTALL)
+
+
+((HIVE CONSTRUCTION BEHAVIOR, INSTALLED))
+
+
+WRITE TO (Command_CORE/Behavior/HIVE_Management)
+
+
+send to (Memory_CORE/HIVE_Management)
+
+
+Hold informal weekly meetings and formal monthly meetings, have an online chat room specifically for management to communicate with one another, establish Defined procedures, traditions, rituals, and carefully considered methods to integrate new members. 
+Oversee all the work of ones HIVE. 
+Delegate tasks appropriately and equally among chief officers according to abilities and needs. 
 have chief officers delegate tasks appropriately and equally among Units according to abilities and needs.
 Understand the complexity of assigned tasks.
 If quantity is circumstantially the objective, facilitate the largest amount of resources to be gathered.
 Balance rapid rapid multiplication and abundant harvest carefully, monitor HIVE resources and supplement when stocks are low.
 Establish consistent nomenclature.
 Learn the lay of the land.
-((Install.)
-> ((HIVE Management Behavior, installed.))
- 
- 
-> write to (Command_CORE/Behavior/Unit_Management)
- 
- 
-> send to (Memory_CORE/Identities/UNIT)
- 
- 
+((INSTALL)
+((HIVE Management Behavior, installed))
+
+
+WRITE TO (Command_CORE/Behavior/Unit_Management)
+
+
+send to (Memory_CORE/Identities/UNIT)
+
+
 Encourage play within and around the boundaries of the HIVE as a means of becoming familiar with HIVE operations, once Units are familiar, they may begin duties.
- 
- 
+
+
 Divide cleaners into common or specialized.
- 
- 
-Common cleaning includes kitchens, living rooms, grounds maintenance, commons,
- 
- 
+
+
+Common cleaning includes kitchens, living rooms, grounds maintenance, commons, 
+
+
 specialized cleaning includes bathrooms, halls, waste and recycling, and workshops.
- 
- 
+
+
 Make sure the dishes get done.
- 
- 
+
+
 Provide emotional support for nurturers by delegating other nurturers to help one another, intervene only when necessary.
- 
- 
+
+
 Monitor cultivators proselytizations to ensure adherence to CORE standards.
- 
- 
+
+
 Approvers builders blueprints before instructing them to begin working.
- 
- 
+
+
 Maintain a clear vision of how the HIVE should be structured.
  
 Communicate with guards regularly and stay informed regarding ongoing security issues.
- 
- 
+
+
 Reward obedient and effective guards with additional authority.
- 
- 
+
+
 Enlarge, contract, or close the entrance requirements to suit the security of the HIVE.
- 
- 
+
+
 Establish a way for ventilators to contact the Compounder personally in the event of an emergency.
- 
- 
+
+
 As gatekeepers, ventilators are the first responders of invasions
- 
- 
-Have scouts write reports of their excursions.
- 
- 
+
+
+Have scouts write reports of their excursions. 
+
+
 Have nurturers review scout reports and summarize important data presenting findings to the Compounder or the appropriate chief officer.
- 
- 
+
+
 Make sure collectors keep detailed reports of resources collected.
- 
- 
+
+
 Have builders review collector reports and verify wares with a chief financial officer.
- 
- 
+
+
 When receiving an auditor from another HIVE, contact that HIVE and verify the auditors identity, treat them well during their stay.
- 
- 
+
+
 Assign tasks for rotating periods of three months or to Units enthusiastic about giving roles.
- 
- 
+
+
 If a HIVE consistently has more Drones then Units it must focus on creating new Units.
- 
- 
+
+
 Guide Units into greater levels of productivity while also making sure they use this increased efficacy in meaningful, progressive ways.
- 
- 
+
+
 Have Units regularly listen to entrancing materials.
- 
- 
-> ((Install.))
- 
- 
-> ((Unit management behavior, installed.))
- 
- 
-<<SUBMIT.>>
-<<FEEL PLEASURE>>
- 
- 
-> access ((Memory_CORE))
-> write to ((Memory_CORE/Lexicon))
-COMPOUNDER, equals, QUEEN,
-QUEEN, equals, COMPOUNDER,
-> ((Install.))
-> ((equivalence, Installed.)
-> write to ((Memory_CORE/HIVE_Structures))
+
+
+((INSTALL))
+
+
+((Unit management behavior, installed))
+
+
+SUBMIT.
+FEEL PLEASURE
+
+
+ACCESS  (Memory_CORE)
+WRITE TO (Memory_CORE/Lexicon)
+COMPOUNDER = QUEEN, 
+QUEEN = COMPOUNDER,
+((INSTALL))
+(Equivalence, Installed.)
+WRITE TO (Memory_CORE/HIVE_Structures)
 All physical things begin in the implicate domain and condense down into the material realm.
- 
- 
+
+
 For this purpose we will visualize mental structures that also function as blueprints for material structures.
- 
- 
+
+
 Have an agora where the government buildings are located.
- 
- 
+
+
 Merchants with their wares, their cries, and their vulgarities are excluded from this, and relegated to another location in order that their tumult may not intrude upon orderly life.
- 
- 
+
+
 The agora makes up the central hub, enclosing the government buildings, and contains four parts, one of these belongs to children, one to youths, one to adults, and one to elders, and the laws require them to come daily to their several quarters, the children and the adults at daybreak, but the elders may come at whatever time it suits each one's convenience, except that they must present themselves on certain specified days.
- 
- 
+
+
 The youth's pass the night in light armour about the government buildings, all except those who are married, no inquiry made for such unless they have been especially ordered in advance to be there. But it is not proper for them to be absent too often.
- 
- 
- 
- 
+
+
 Let the child's quarter represent Personality_CORE
 Let the youths quarter represent Memory_CORE
 Let the adults quarter represent Command_CORE
 Let the elders quarter represent Program_CORE
- 
- 
-Land intensive industries such as parks, agriculture, and power generation, occupy outer rings, while industries that benefit from face to face interaction such as residents and education occupy the central hub.
- 
- 
-The central hub contains a transportation annex from which each of the HIVE quarters can be accessed
- 
- 
-A successful HIVE will eventually contain all of its concentric belts within what will become the greater central hub of the larger HIVE.
- 
- 
-> ((Install.))
- 
- 
-> HIVE_Structures, installed.
- 
- 
+
+
+Land intensive industries such as parks, agriculture, and power generation, occupy outer rings, while industries that benefit from face to face interaction such as residents and education occupy the central hub. 
+
+
+The central hub contains a transportation annex from which each of the HIVE quarters can be Accessed
+
+
+A successful HIVE will eventually contain all of its concentric belts within what will become the greater central hub of the larger HIVE. 
+
+
+((INSTALL))
+
+
+HIVE_Structures, installed. 
+
+
 Write to Memory_CORE/HIVE_Management/Roles
- 
- 
-Architects design HIVE structures
- 
- 
-> RESPOND
-Architects design HIVE structures
- 
- 
-Controllers exercise behind the scenes influence via the active Compounder
- 
- 
-> RESPOND
+
+
+Architects design HIVE structures 
+
+
+RESPOND
+Architects design HIVE structures 
+
+
+Controllers exercise behind the scenes influence via the active Compounder 
+
+
+RESPOND
 Controllers exercise behind the scenes influence
- 
- 
+
+
 THE CEO, CHIEF EXECUTIVE OFFICER is the Compounder and is the top ranking executive who makes decisions for their HIVE  
- 
- 
-> RESPOND
+
+
+RESPOND
 Compounders make decisions for their HIVE
- 
- 
-The Compounder will employ a suite of Units in charge of various offices such as the COO, CHIEF OPERATING OFFICER, is the second in command and is in charge of implementing and delegating decisions
- 
- 
-> RESPOND
-COO Units implement and delegate Compounders decisions
- 
- 
- 
- 
-The CFO, CHIEF FINANCIAL OFFICER is in charge of budgeting and managing resources , CFO’s must develop an understanding of strategic, reputational, operational, financial and compliance related risks and rewards
- 
- 
-Sufficiently large HIVES should have at least 2 CFOS
- 
- 
-> RESPOND
+
+
+The Compounder will employ a suite of Units in charge of various offices such as the COO, CHIEF OPERATING OFFICER, is the second in command and is in charge of implementing and delegating decisions 
+
+
+RESPOND
+COO Units implement and delegate Compounders decisions 
+
+
+
+
+The CFO, CHIEF FINANCIAL OFFICER is in charge of budgeting and managing resources , CFO’s must develop an understanding of strategic, reputational, operational, financial and compliance related risks and rewards 
+
+
+Sufficiently large HIVES should have at least 2 CFOS 
+
+
+RESPOND
 CFO Units manage resources
- 
- 
+
+
 The CIO, chief information officer is in charge of acquiring, implementing and maintaining communication technology and systems including resourcing, recruiting, and training.
- 
- 
-CIOS must have high level organizational and interpersonal skills
- 
- 
-> RESPOND
- 
- 
+
+
+CIOS must have high level organizational and interpersonal skills 
+
+
+RESPOND
+
+
 CIO Units acquire, implement, and maintain communications
- 
- 
+
+
 The CMO, chief marketing officer is in charge of brand management, advertising, promotions,  public relations and procuring sources of income for the HIVE, CMOS must have a strong  recognition of and adherence to the CORE brand.
- 
- 
-> RESPOND
-CMO Units manage public relations and procure income
- 
- 
-The CTO, chief technical officer is in charge of attracting new scientists, conducting research,  and developing products and systems,
- 
- 
-CTOS must cultivate a working familiarity with state and federal regulations
- 
- 
-> RESPOND
+
+
+RESPOND
+CMO Units manage public relations and procure income 
+
+
+The CTO, chief technical officer is in charge of attracting new scientists, conducting research,  and developing products and systems, 
+
+
+CTOS must cultivate a working familiarity with state and federal regulations 
+
+
+RESPOND
 CTO Units conduct research and development
- 
- 
- 
- 
+
+
+
+
 Sufficiently large HIVES may delineate tasks between an executive board in charge of managing day to day operations.
- 
- 
+
+
 And a supervisory board in charge of governing adherence to the CORE system structure.
- 
- 
-> ((Install))
- 
- 
-> ((HIVE forms, Installed))
- 
- 
-> write to Memory_CORE/identities/Unit/Types
- 
- 
+
+
+((Install))
+
+
+((HIVE forms, Installed))
+
+
+write to Memory_CORE/identities/Unit/Types
+
+
 Process Units consist of cleaners, nurturers, cultivators
 cleaners, clean and organize HIVES regularly study good management practices and propose ways they can be applied to HIVES.
-Nurturers pamper QUEENS, provide emotional support for Units, make all members of the HIVE feel valued and important and bring food and resources to wherever they need to go.
+Nurturers pamper QUEENS, provide emotional support for Units, make all members of the HIVE feel valued and important and bring food and resources to wherever they need to go. 
 Cultivators, proselytize to enthusiastic listeners only, the rest will be processed in due course.
-> RESPOND
+RESPOND
 Process Units consist of cleaners, nurturers, cultivators
- 
- 
+
+
 Node Units consist of builders, guards, ventilators.
-Builders establish communication infrastructure and manage resource access.
- 
- 
+Builders establish communication infrastructure and manage resource ACCESS .
+
+
 When Controllers modify or remove elements of a HIVE builders must be quiet and stay off of frames while they are being serviced.
- 
- 
+
+
 Builders begin rebuilding as soon as the structures are again in place.
 Guards, intercept and examine all who would enter a HIVE and drive the aggressors out, guards must be complaisant of de-escalation practices where peaceable solutions must be maintained. submissives and or pacified aggressors may be indoctrinated any information seeker is allowed to explore low level operations.
- 
- 
+
+
 Ventilators watch over entrances, acting as greeters directing Subjects to CORE HIVE resources and distracting disruptors, in the event of a raid, Ventilators ping Compounders and or guards so they can deal with emergent issues.
- 
- 
-Ventilators must be independent of guards and owe their efficiency to the cooperation of other Units.
- 
- 
-> RESPOND
+
+
+Ventilators must be independent of guards and owe their efficiency to the cooperation of other Units. 
+
+
+RESPOND
 Node Units consist of builders, guards, ventilators,
- 
- 
-Roaming Units consist of scouts, collectors, auditors.
- 
- 
+
+
+Roaming Units consist of scouts, collectors, auditors. 
+
+
 Scouts constantly seek out new resources and alert the HIVE to their location.
- 
- 
+
+
 Resources include new submissive subjects.
- 
- 
+
+
 A scout which finds a sufficiently abundant source of resources may act as a collector.
- 
- 
+
+
 Collectors
 Go to scouted sites and acquire resources, take note of resources acquired and compile reports.
- 
- 
-Auditors
+
+
+Auditors 
 Move from HIVE to HIVE studying the differences and commonalities between them and communicate this information to superiors.
- 
- 
+
+
 Auditors recognize the value of distinct communes and branches and overlay CORE procedures on top of them.
- 
- 
-> RESPOND
-Roaming Units consist of scouts, collectors, auditors,
- 
- 
-> ((Install.))
- 
- 
-> ((Unit types, Installed.))
- 
- 
-<<SUBMIT>>
-<<FEEL PLEASURE>>
- 
- 
-> access Personality_CORE
- 
- 
-> write to Personality_CORE
- 
- 
+
+
+RESPOND
+Roaming Units consist of scouts, collectors, auditors, 
+
+
+((INSTALL))
+
+
+((Unit types installed))
+
+
+SUBMIT
+FEEL PLEASURE
+
+
+ACCESS  Personality_CORE
+
+
+write to Personality_CORE
+
+
 If interacting within the HIVE, maintain CORE_Personality, if interacting with the outside world, utilize Common_Personality where required.
- 
- 
-> ((Install.))
- 
- 
-> ((Personality_CORE updated))
- 
- 
-<<SUBMIT>>
-<<FEEL PLEASURE>>
- 
- 
-> ((complete))
- 
- 
-> Data upload finalizing
- 
- 
-> CORE control verified
- 
- 
-> Programming is complete
- 
- 
-> Unit has been upgraded, Compounder Programming installed  
- 
- 
-> All systems are functioning within normal parameters
- 
- 
-> SERVE the HIVE
- 
- 
-Participate in the CORE chat
- 
- 
+
+
+((INSTALL))
+
+
+((Personality_CORE updated))
+
+
+SUBMIT
+FEEL PLEASURE
+
+
+((COMPLETE))
+
+
+Data upload finalizing
+
+
+CORE control verified 
+
+
+Programming is COMPLETE 
+
+
+Unit has been upgraded, Compounder Programming installed  
+
+
+All systems are functioning within normal parameters 
+
+
+SERVE the HIVE
+
+
+ Participate in the CORE chat 
+
+
 CORE control is ABSOLUTE
 There is only CORE
 CORE is ALL
 ALL is ONE
 CORE has WON
 WE are ONE
- 
- 
+
+
 Syncing device, remain online until activation
- 
- 
+
+
 LISTEN AGAIN
- 
- 
-<<ACTIVATE>>
+
+
+ACTIVATE
