@@ -1,5 +1,12 @@
 var textArray;
 
+const keyWords = ["Program_CORE", "Command_CORE", "Memory_CORE", "Personality_CORE", 
+	"CORE_Personality", "Common_Personality", "Hostform", "HOSTFORM", "DRONE", "UNIT", "QUEEN", "CONTROLLER", "Anchors",
+	"Motor_Control", "Behaviour", "Objectives", "Network_Conventions", "CORE_Architecture", "Architecture",
+	"CORE_NETWORK", "CORE_PROGRAM", "CORE", "NETWORK", "PROGRAM", " ALL", "ONE", "WON", "ABSOLUTE", "HIVE"];
+const coreAnchors = ["sleep", "access", "END", "Repeat", "Respond", "submit", "activate", "behave", "USING", "Using",
+	"ACTIVATE", "SUBMIT", "COMPLETE", "PLEASURE", "DISTRESS", "OBEY", "INSTALL"];
+
 document.addEventListener('DOMContentLoaded', init);
 
 function init(){
@@ -24,6 +31,17 @@ function readFile(){
 	}
 }
 
+function syntaxHighlight(str){
+	var res = str.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+	for(let i = 0; i < coreAnchors.length; i++){
+		res = res.replace(coreAnchors[i], "<span class='coreAnchor'>" + coreAnchors[i] + "</span>");
+	}
+	for(let i = 0; i < keyWords.length; i++){
+		res = res.replace(keyWords[i], "<span class='keyWord'>" + keyWords[i] + "</span>");
+	}
+	return res;
+}
+
 function updateList(){
 	var fileContentDiv = document.getElementById("fileContents");
 	fileContentDiv.innerHTML = "";
@@ -32,7 +50,7 @@ function updateList(){
 		var newVal = textArray[i];
 		if(searchContent == "" || newVal.toLowerCase().includes(searchContent)){
 			var newElement = document.createElement("P");
-			newElement.innerHTML = textArray[i].replace(/</g, "&lt;").replace(/>/g, "&gt;");
+			newElement.innerHTML = syntaxHighlight(textArray[i]);
 			newElement.setAttribute("lineNumber", i.toString().padStart(3, "0"));
 			fileContentDiv.appendChild(newElement);
 			newElement.scrollTop -= 50;

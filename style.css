@@ -48,3 +48,11 @@ main p::before{
 	-o-user-select: none;
 	user-select: none;
 }
+
+span.keyWord{
+	color:#5F8;
+}
+
+span.coreAnchor{
+	color:#FF5;
+}
